@@ -1,4 +1,4 @@
-## Selected projects in business intelligence and data analytics
+## Selected data analytics projects
 
 ---
 
