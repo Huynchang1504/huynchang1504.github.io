@@ -2,9 +2,9 @@
 
 ---
 
-### Project 1
+### Customer churn reduction
 
-Description 1.
+This case is about a customer churn reduction project at a VN-based online retailer.
 
 ---
 
